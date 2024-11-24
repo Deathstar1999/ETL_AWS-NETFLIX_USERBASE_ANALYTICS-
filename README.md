@@ -45,7 +45,6 @@ This project addresses key questions for Netflix’s business strategy, includin
 ### **Steps**
 1. **S3 Buckets:** 
    - CSV files are organized into folders within S3 buckets.  
-   *(Screenshot: Include an image of the S3 bucket structure here.)*
 
 2. **AWS Glue ETL Jobs:**
    - Crawlers scan datasets to populate the AWS Glue Data Catalog.
