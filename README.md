@@ -72,7 +72,9 @@ This project addresses key questions for Netflix’s business strategy, includin
 
 
 5. **Dashboards:**
-   - Tableau dashboards showcase key insights like user preferences and revenue trends.  
+   - Tableau dashboards showcase key insights like user preferences and revenue trends.
+
+![image](https://github.com/user-attachments/assets/0d3989e5-8da0-436f-b1f1-0129965a163b)
 
 ![image](https://github.com/user-attachments/assets/92888332-3b7b-46fe-b56b-b85c1e230168)
 
