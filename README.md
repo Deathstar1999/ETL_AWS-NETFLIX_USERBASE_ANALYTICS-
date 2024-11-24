@@ -31,7 +31,7 @@ This project addresses key questions for Netflix’s business strategy, includin
    - AWS Glue and PySpark are used to clean, transform, and enrich data.
 
 4. **Data Loading:**
-   - Transformed data is loaded into an AWS Redshift (PostgreSQL) data warehouse.
+   - Transformed data is loaded into an AWS RDS (PostgreSQL) data warehouse.
 
 5. **Visualization:**
    - Interactive dashboards created in Tableau visualize key insights and KPIs.
